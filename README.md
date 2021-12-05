@@ -1,6 +1,12 @@
 # Campus Placement
  Me and my team are trying to build a model to find out, based on the dataset "**Placement_Data_Full_Class.csv**", whether a student gets placed or not based on his/her credentials.
  
+ Team consisted of the following members:
+ 1. Anish Sunil
+ 2. Preethika K
+ 3. Sneha Sujit Saha
+ 4. Kevin Thomas
+ 
 In the project we started we doing the exploratory data analysis and visualization of the dataset and inferred certain conclusions from the graph.
 In our project we used 5 supervised models to determine whether a student gets placed or not and find out which one has the highest accuracy and to determine the tier of the placed student’s salary in order to predict this value beforehand for new students based on their academic performance. Also to determine if there exists some form of 
 gender bias in the recruitment process.
