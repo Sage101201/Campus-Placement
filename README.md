@@ -24,3 +24,5 @@ gender bias in the recruitment process.
 **v)sklearn :** most useful and robust library for machine learning in Python to design models.
 
 **vi)statistics :** built-in module that you can use to calculate mathematical statistics of numeric data
+
+### To access any other resources: https://drive.google.com/drive/folders/1KpG8S2VlqxnGViXqEsYsI2PukNfoOQR6?usp=sharing
